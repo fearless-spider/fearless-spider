@@ -18,9 +18,9 @@
 
 </details>
 
-<script src="https://unpkg.com/@codersrank/summary@0.9.11/codersrank-summary.min.js"></script>
-
-<codersrank-summary username="fearless-spider"></codersrank-summary>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fearless-spider&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 [website]: https://fearlessspider.com
 [twitter]: https://twitter.com/fearless-spider
