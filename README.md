@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 -->
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fearless-spider&skills=Python,Swift,SCSS,Java&show-other-skills=true&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fearless-spider&width=820"
 />
