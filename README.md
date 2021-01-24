@@ -18,6 +18,10 @@
 
 </details>
 
+<script src="https://unpkg.com/@codersrank/summary@0.9.11/codersrank-summary.min.js"></script>
+
+<codersrank-summary username="fearless-spider"></codersrank-summary>
+
 [website]: https://fearlessspider.com
 [twitter]: https://twitter.com/fearless-spider
 <!--
