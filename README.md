@@ -1,3 +1,7 @@
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fearless-spider&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 ### Hi there 👋
 
 * 🔭 I’m currently working on AlphaQuant Dashboard
@@ -17,10 +21,6 @@
   <img align="left" alt="FEARLESS SPIDER Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fearless-spider&show_icons=true&hide_border=true" />
 
 </details>
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fearless-spider&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 
 [website]: https://fearlessspider.com
 [twitter]: https://twitter.com/fearless-spider
