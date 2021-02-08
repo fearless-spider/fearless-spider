@@ -15,6 +15,7 @@
 [<img align="left" alt="FEARLESS SPIDER | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 ### Stats
+<img src="https://www.codewars.com/users/fearless-spider/badges/large">
 <details>
   <summary>:zap: Github Stats</summary>
 
