@@ -16,6 +16,7 @@
 * 📫 How to reach me: 
   * email: office@fearlessspider.com
 
+
 ### Connect with me:
 
 [<img align="left" alt="fearlessspider.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -24,7 +25,8 @@
 [website]: https://fearlessspider.com
 [twitter]: https://twitter.com/fearless-spider
 
-###
+
+### Skills
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fearless-spider&width=820"
