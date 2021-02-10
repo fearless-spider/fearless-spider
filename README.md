@@ -20,8 +20,8 @@
 [<img align="left" alt="fearlessspider.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="FEARLESS SPIDER | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[website]: https://fearlessspider.com
-[twitter]: https://twitter.com/fearless-spider
+* [website]: https://fearlessspider.com
+* [twitter]: https://twitter.com/fearless-spider
 
 ---
 ### Skills
