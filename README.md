@@ -1,10 +1,13 @@
-[<img
+# FEARLESS SPIDER
+
+<img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fearless-spider&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>]
+/>
 
-[<img src="https://www.codewars.com/users/fearless-spider/badges/large">]
+<img src="https://www.codewars.com/users/fearless-spider/badges/large">
 
-  [<img align="left" alt="FEARLESS SPIDER Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fearless-spider&show_icons=true&hide_border=true" />]
+<img align="left" alt="FEARLESS SPIDER Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fearless-spider&show_icons=true&hide_border=true" />
+
 
 ### Hi there 👋
 
@@ -20,20 +23,8 @@
 
 [website]: https://fearlessspider.com
 [twitter]: https://twitter.com/fearless-spider
-<!--
-**fearless-spider/fearless-spider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on AlphaQuant Dashboard
-- 🌱 I’m currently learning Erlang
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fearless-spider&width=820"
