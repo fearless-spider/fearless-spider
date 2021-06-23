@@ -2,8 +2,6 @@
 
 <img src="https://www.codewars.com/users/fearless-spider/badges/large">
 
-<img align="left" alt="FEARLESS SPIDER Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fearless-spider&show_icons=true&hide_border=true" />
-
 ---
 
 ### Hi there 👋
