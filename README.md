@@ -25,3 +25,16 @@
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fearless-spider&width=820"
 />
+
+### Books
+List of programming books I've read:
+* Learning Python: Powerful Object-Oriented Programming - Mark Lutz
+* Kierunek jakość. Jak unikać błędów w projekcie - Kunysz Aleksandra
+* Mistrz czystego kodu. Kodeks postępowania profesjonalnych programistów - Martin Robert C.
+* Python Programuj szybko i wydajnie - Gorelick Micha, Ozsvald Ian
+* Python Uczenie maszynowe - Raschka Sebastian
+* English 4 IT Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko - Błaszczyk Beata
+* Tajniki języka JavaScript Na drodze do biegłości - Simpson Kyle
+* Domain-Driven Design Zapanuj nad złożonym systemem informatycznym - Evans Eric
+* BDD w działaniu Sterowanie zachowaniem w rozwoju aplikacji - Ferguson Smart John
+* TDD Sztuka tworzenia dobrego kodu - Kent Beck
