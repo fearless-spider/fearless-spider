@@ -1,6 +1,6 @@
 # FEARLESS SPIDER
 
-<img src="https://www.codewars.com/users/fearless-spider/badges/large">
+<a href="https://www.codewars.com/users/fearless-spider"><img src="https://www.codewars.com/users/fearless-spider/badges/large"></a>
 
 ---
 
