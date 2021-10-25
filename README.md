@@ -2,6 +2,8 @@
 
 <a href="https://www.codewars.com/users/fearless-spider"><img src="https://www.codewars.com/users/fearless-spider/badges/large"></a>
 
+<a href="https://sourcerer.io/fearless-spider"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
+
 ---
 
 ### Hi there 👋
