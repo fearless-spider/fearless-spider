@@ -43,6 +43,6 @@ List of programming books I've read:
 
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=68fd9ce6-70a4-4c0f-b049-701e63ac83a9)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fearlessspider)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearless-spider&show_icons=true)
