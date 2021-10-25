@@ -28,8 +28,6 @@
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fearless-spider&width=820"
 />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=68fd9ce6-70a4-4c0f-b049-701e63ac83a9)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Books
 List of programming books I've read:
 * Learning Python: Powerful Object-Oriented Programming - Mark Lutz
@@ -42,3 +40,9 @@ List of programming books I've read:
 * Domain-Driven Design Zapanuj nad złożonym systemem informatycznym - Evans Eric
 * BDD w działaniu Sterowanie zachowaniem w rozwoju aplikacji - Ferguson Smart John
 * TDD Sztuka tworzenia dobrego kodu - Kent Beck
+
+---
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=68fd9ce6-70a4-4c0f-b049-701e63ac83a9)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearless-spider&show_icons=true)
