@@ -2,8 +2,6 @@
 
 <a href="https://www.codewars.com/users/fearless-spider"><img src="https://www.codewars.com/users/fearless-spider/badges/large"></a>
 
-<a href="https://sourcerer.io/fearless-spider"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a>
-
 ---
 
 ### Hi there 👋
@@ -23,6 +21,8 @@
 
 ---
 ### Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearless-spider)](https://github.com/anuraghazra/github-readme-stats)
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fearless-spider&width=820"
