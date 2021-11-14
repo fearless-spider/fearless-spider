@@ -28,6 +28,7 @@
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fearless-spider&width=820"
 />
 
+---
 ### Books
 List of programming books I've read:
 * Learning Python: Powerful Object-Oriented Programming - Mark Lutz
