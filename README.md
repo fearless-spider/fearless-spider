@@ -33,6 +33,7 @@ List of programming books I've read:
 * Learning Python: Powerful Object-Oriented Programming - Mark Lutz
 * Kierunek jakość. Jak unikać błędów w projekcie - Kunysz Aleksandra
 * Mistrz czystego kodu. Kodeks postępowania profesjonalnych programistów - Martin Robert C.
+* Czysty kod, Podręcznik dobrego programisty - Martin Robert C.
 * Python Programuj szybko i wydajnie - Gorelick Micha, Ozsvald Ian
 * Python Uczenie maszynowe - Raschka Sebastian
 * English 4 IT Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko - Błaszczyk Beata
@@ -40,6 +41,7 @@ List of programming books I've read:
 * Domain-Driven Design Zapanuj nad złożonym systemem informatycznym - Evans Eric
 * BDD w działaniu Sterowanie zachowaniem w rozwoju aplikacji - Ferguson Smart John
 * TDD Sztuka tworzenia dobrego kodu - Kent Beck
+* Wieczne opóźnienie, zarządzanie projektami IT - Marcin Dąbrowski
 
 ---
 
