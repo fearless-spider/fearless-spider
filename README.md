@@ -6,6 +6,8 @@
 
 ### Hi there 👋
 
+* Web and Mobile developer.
+* Based in Lodz, Poland.
 * 🔭 I’m currently working on Python + React project
 * 🌱 I’m currently learning Erlang
 * 📫 How to reach me: 
