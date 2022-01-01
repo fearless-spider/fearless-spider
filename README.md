@@ -47,6 +47,7 @@ List of programming books I've read:
 * BDD w działaniu Sterowanie zachowaniem w rozwoju aplikacji - Ferguson Smart John
 * TDD Sztuka tworzenia dobrego kodu - Kent Beck
 * Wieczne opóźnienie, zarządzanie projektami IT - Marcin Dąbrowski
+* Algorytmy sztucznej inteligencji - Rishal Hurbans
 
 ---
 
