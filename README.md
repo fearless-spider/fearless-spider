@@ -1,5 +1,9 @@
 # FEARLESS SPIDER
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fearless-spider&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 <a href="https://www.codewars.com/users/fearless-spider"><img src="https://www.codewars.com/users/fearless-spider/badges/large"></a>
 
 
