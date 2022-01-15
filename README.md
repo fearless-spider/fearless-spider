@@ -56,6 +56,10 @@ List of programming books I've read:
 * TDD Sztuka tworzenia dobrego kodu - Kent Beck
 * Wieczne opóźnienie, zarządzanie projektami IT - Marcin Dąbrowski
 * Algorytmy sztucznej inteligencji - Rishal Hurbans
+* Praktyka czyni mistrza - Dave H. Hoover, Adewale Oshineye
+* Projektowanie systemów rozproszonych - Brendan Burns
+* Architektura ewolucyjna - Neal Ford, Rebecca Parsons, Patrick Kua
+* Testowanie kodu w praktyce - Renu Rajani
 
 ---
 
