@@ -30,6 +30,7 @@
 * INSTAGRAM: https://www.instagram.com/fearlessspider
 * YOUTUBE: https://www.youtube.com/channel/UCWVQv1K8o4asR041Xkld-oQ
 * CODEPEN: https://codepen.io/fearless-spider
+* EXERCISM: https://exercism.org/profiles/fearless-spider
 
 ---
 ### Skills
