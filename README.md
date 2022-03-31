@@ -64,8 +64,4 @@ List of programming books I've read:
 
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fearlessspider)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L37QTKJ)
