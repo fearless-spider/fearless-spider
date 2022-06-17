@@ -58,9 +58,12 @@ List of programming books I've read:
 * Wieczne opóźnienie, zarządzanie projektami IT - Marcin Dąbrowski
 * Algorytmy sztucznej inteligencji - Rishal Hurbans
 * Praktyka czyni mistrza - Dave H. Hoover, Adewale Oshineye
+* Praca z zastanym kodem - Michael C. Feathers
 * Projektowanie systemów rozproszonych - Brendan Burns
 * Architektura ewolucyjna - Neal Ford, Rebecca Parsons, Patrick Kua
 * Testowanie kodu w praktyce - Renu Rajani
+* Tajniki Języka JavaScript - Na drodze do biegłości - Kyle Simpson
+* Pragramatyczny Programista - David Thomas, Andrew Hunt
 
 ---
 
