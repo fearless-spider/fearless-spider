@@ -65,6 +65,7 @@ List of programming books I've read:
 * Architektura ewolucyjna - Neal Ford, Rebecca Parsons, Patrick Kua
 * Testowanie kodu w praktyce - Renu Rajani
 * Tajniki Języka JavaScript - Na drodze do biegłości - Kyle Simpson
+* Tajniki Języka JavaScript - Zakresy i domknięcia - Kyle Simpson
 * Pragramatyczny Programista - David Thomas, Andrew Hunt
 
 ---
