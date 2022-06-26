@@ -69,5 +69,3 @@ List of programming books I've read:
 * Pragramatyczny Programista - David Thomas, Andrew Hunt
 
 ---
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L37QTKJ)
