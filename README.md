@@ -120,6 +120,18 @@ src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selen
 <img
 src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white"
 />
+
+#### Editors
+
+<img
+src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"
+/>
 ---
 ### Books
 List of programming books I've read:
