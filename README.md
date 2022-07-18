@@ -9,8 +9,14 @@
 <a href="https://www.codewars.com/users/fearless-spider"><img src="https://www.codewars.com/users/fearless-spider/badges/large"></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearless-spider&show_icons=true)
+![Fearless Spider's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearless-spider&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fearless-spider)](https://git.io/streak-stats)
+
+---
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=fearless-spider"
+/>
 
 ---
 
