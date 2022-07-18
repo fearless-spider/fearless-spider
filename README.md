@@ -39,11 +39,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearless-spider)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Databases
-
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fearless-spider&width=820"
 />
+
+#### Databases
+
 <img
 src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
 />
