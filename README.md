@@ -102,7 +102,24 @@ src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&
 <img
 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 />
-
+<img
+src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white"
+/>
 ---
 ### Books
 List of programming books I've read:
