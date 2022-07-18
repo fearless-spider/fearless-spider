@@ -39,6 +39,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearless-spider)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Databases
+
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fearless-spider&width=820"
 />
@@ -56,6 +58,48 @@ src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&
 />
 <img
 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+/>
+
+#### Frameworks & Library
+
+<img
+src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"
+/>
+<img
+src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 />
 
 ---
