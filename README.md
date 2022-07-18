@@ -187,6 +187,21 @@ src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=inst
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 />
 
+#### Terminal
+
+<img
+src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"
+/>
+
 ---
 ### Books
 List of programming books I've read:
