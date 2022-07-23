@@ -8,6 +8,7 @@
 
 <a href="https://www.codewars.com/users/fearless-spider"><img src="https://www.codewars.com/users/fearless-spider/badges/large"></a>
 
+<img src="profile-3d-contrib/profile-season-animate.svg" />
 
 ![Fearless Spider's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearless-spider&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fearless-spider)](https://git.io/streak-stats)
