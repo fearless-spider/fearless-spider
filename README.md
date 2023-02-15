@@ -1,4 +1,4 @@
-![FEARLESS SPIDER](https://github.com/fearless-spider/fearless-spider/blob/master/profile.jpg)
+![FEARLESS SPIDER](https://github.com/fearless-spider/fearless-spider/blob/master/IMG20230206113004.jpg)
 
 # FEARLESS SPIDER
 
