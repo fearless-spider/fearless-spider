@@ -24,9 +24,9 @@ src="https://github-profile-trophy.vercel.app/?username=fearless-spider"
 ### Hi there 👋
 
 * ✨ Web and Mobile developer.
-* 🇵🇱 Based in Lodz, Poland.
-* 🔭 I’m currently working on Python + React project
-* 🌱 I’m currently learning Erlang
+* 🇵🇱 Based in Trebaczew, Poland.
+* 🔭 I’m currently working on Python and Elixir projects
+* 🌱 I’m currently learning Elixir
 * 📫 How to reach me: 
   * 📧 office@fearlessspider.com
 
