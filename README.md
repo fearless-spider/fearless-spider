@@ -11,7 +11,7 @@
 <img src="profile-3d-contrib/profile-gitblock.svg" />
 
 ![Fearless Spider's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearless-spider&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fearless-spider)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fearless-spider&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
