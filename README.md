@@ -35,11 +35,11 @@ src="https://github-profile-trophy.vercel.app/?username=fearless-spider"
 
 * WEB: https://fearlessspider.com
 * TWITTER: https://twitter.com/fearless-spider
-* FACEBOOK: https://www.facebook.com/fearlessspider
 * INSTAGRAM: https://www.instagram.com/fearlessspider
 * YOUTUBE: https://www.youtube.com/channel/UCWVQv1K8o4asR041Xkld-oQ
 * CODEPEN: https://codepen.io/fearless-spider
 * EXERCISM: https://exercism.org/profiles/fearless-spider
+* BOOT.DEV: https://www.boot.dev/u/fearless-spider
 
 ---
 ### Skills
