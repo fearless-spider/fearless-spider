@@ -35,7 +35,7 @@ src="https://github-profile-trophy.vercel.app/?username=fearless-spider"
 
 ### Connect with me:
 
-* WEB: https://fearlessspider.com
+* WEB: https://fearlessspider.pl
 * TWITTER: https://twitter.com/fearless-spider
 * INSTAGRAM: https://www.instagram.com/fearlessspider
 * YOUTUBE: https://www.youtube.com/channel/UCWVQv1K8o4asR041Xkld-oQ
