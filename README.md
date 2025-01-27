@@ -10,8 +10,6 @@ Professionally connected with web and mobile development industry and informatio
 
 <a href="https://www.codewars.com/users/fearless-spider"><img src="https://www.codewars.com/users/fearless-spider/badges/large"></a>
 
-<img src="profile-3d-contrib/profile-gitblock.svg" />
-
 ![Fearless Spider's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearless-spider&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fearless-spider&theme=tokyonight)](https://git.io/streak-stats)
 
