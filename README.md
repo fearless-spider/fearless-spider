@@ -4,10 +4,6 @@
 
 Professionally connected with web and mobile development industry and information technology for 18 years. As freelancer, I work with companies, agencies, startups and individuals all over the world. Well-organised person, problem solver, independent employee with high attention to detail. RTS, Turn Based games and my dog (Oscar) fan.
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fearless-spider&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-
 <a href="https://www.codewars.com/users/fearless-spider"><img src="https://www.codewars.com/users/fearless-spider/badges/large"></a>
 
 ![Fearless Spider's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearless-spider&show_icons=true)
